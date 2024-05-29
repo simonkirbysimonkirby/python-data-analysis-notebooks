@@ -1,2 +1,3 @@
-# python-data-analysis-notebooks
-Notebooks for Python for data analysis
+# Notebooks for the Python for Data Analysis Course
+
+This repo contains notebooks for students to use.
